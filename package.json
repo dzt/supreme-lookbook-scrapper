@@ -1,0 +1,19 @@
+{
+  "name": "lookbook-scrapper",
+  "version": "1.0.0",
+  "description": "Supreme Lookbook Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "json2csv": "^3.7.3",
+    "node-base64-image": "^1.0.3",
+    "request": "^2.79.0",
+    "twit": "^2.2.5",
+    "underscore": "^1.8.3"
+  }
+}
