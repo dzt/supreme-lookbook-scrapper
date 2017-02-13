@@ -74,6 +74,7 @@ start(function(body) {
       fs.writeFile('result.csv', csv, function(err) {
         if (err) throw err;
         console.log('writeFile successful');
+        process.exit()
       });
     }, 10000);
   }
