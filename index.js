@@ -6,7 +6,7 @@ const json2csv = require('json2csv');
 const _ = require('underscore');
 const fs = require('fs');
 
-var twitter = true;
+var twitter = false;
 var lookbook_url = 'http://www.supremenewyork.com/lookbook/22';
 var interval = 1000; // 1 second
 var products = [];
@@ -14,10 +14,10 @@ var products = [];
 if (twitter) {
     // Twitter API Config
     var T = new Twit({
-        consumer_key: '8DlE7A6VOR779ttzGkIWoH7mX',
-        consumer_secret: 'gcV4IOfYi9qUxs4XSXveFNHWeeqX2MlvS20rN42iNgB2gccQRI',
-        access_token: '4388891841-QlvMAQ8hbbyhE3fIc4cxCfgMP2HnXEAD5FPm2DU',
-        access_token_secret: 'XR1NqGCCpYBaL6o3Wp1yOapDb7RvJFWXVpA31xEmlPWhp'
+        consumer_key: '',
+        consumer_secret: '',
+        access_token: '',
+        access_token_secret: ''
     });
 }
 
