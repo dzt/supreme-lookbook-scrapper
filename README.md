@@ -12,7 +12,7 @@ Setup:
 $ git clone https://github.com/dzt/supreme-lookbook-scrapper.git
 $ cd supreme-lookbook-scrapper
 $ npm install
-$ node index.js
+$ npm start
 ```
 
 ### Can this thing Tweet?
