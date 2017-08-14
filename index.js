@@ -7,7 +7,7 @@ const _ = require('underscore');
 const fs = require('fs');
 
 var twitter = false;
-var lookbook_url = 'http://www.supremenewyork.com/lookbook/22';
+var lookbook_url = 'http://www.supremenewyork.com/lookbooks';
 var interval = 1000; // 1 second
 var products = [];
 
