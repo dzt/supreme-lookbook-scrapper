@@ -6,6 +6,8 @@ Gather's all the lookbook information from Supreme for you.
 
 supreme-lookbook-scrapper requires [Node.js](http://nodejs.org/).
 
+[2018 F/W Export](https://docs.google.com/spreadsheets/d/1LoGrEnzzohWJZ4QJ90mOSss7bwuZiqo6asNf-blgVrg/edit?usp=sharing)
+
 Setup:
 
 ```sh
