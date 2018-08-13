@@ -2,13 +2,13 @@
 
 Gather's all the lookbook information from Supreme for you.
 
-FW2017 Data can be found [here](https://gist.github.com/dzt/783b5245318f42951c4ecb7eb19ee5aa) or if you look Google Spreedsheets you can click [here](https://docs.google.com/spreadsheets/d/1viWHstVZWz0jD7z4T-I64g-Tgb0e-3y9w80YpNzAkYQ/edit?usp=sharing).
+FW2018 Data can be found [here](https://docs.google.com/spreadsheets/d/1LoGrEnzzohWJZ4QJ90mOSss7bwuZiqo6asNf-blgVrg/edit?usp=sharing)
+
+FW2018 Data can be found [here](https://docs.google.com/spreadsheets/d/1viWHstVZWz0jD7z4T-I64g-Tgb0e-3y9w80YpNzAkYQ/edit?usp=sharing).
 
 ### Installation/Setup
 
 supreme-lookbook-scrapper requires [Node.js](http://nodejs.org/).
-
-[2018 F/W Export](https://docs.google.com/spreadsheets/d/1LoGrEnzzohWJZ4QJ90mOSss7bwuZiqo6asNf-blgVrg/edit?usp=sharing)
 
 Setup:
 
